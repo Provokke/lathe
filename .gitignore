@@ -1,0 +1,4 @@
+nimcache/
+/lathe
+tests/test_lathe
+*.exe
