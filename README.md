@@ -89,3 +89,4 @@ Tested with Nim 2.2.
 ## Licence
 
 MIT.
+
