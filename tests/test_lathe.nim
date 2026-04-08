@@ -78,4 +78,3 @@ suite "errors":
   test "stray closing tag":
     expect TemplateError:
       discard compile("text {{/a}}")
-

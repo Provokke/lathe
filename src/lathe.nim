@@ -171,4 +171,3 @@ when isMainModule:
     quit("lathe: " & error.msg, 1)
   except IOError, JsonParsingError:
     quit("lathe: " & getCurrentExceptionMsg(), 1)
-
